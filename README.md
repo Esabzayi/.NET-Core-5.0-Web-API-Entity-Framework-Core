@@ -1,4 +1,3 @@
-🚀 .NET Core 5.0 Web API Entity Framework Core 🚀
 
 🚀 Web API ( Completed Without Database )
 
