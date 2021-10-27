@@ -26,3 +26,15 @@
   ✔ All previous HTTP requests with Entity Framework Core to save your data in a SQL Server & SQLite database
 
   ✔ Data Seeding: Insert data with a migration programmatically
+ 
+🚀 Authentication ( Authentication )
+
+   ✔ Token Authentication with JSON Web Tokens
+   
+   ✔ Claims
+
+   ✔ Secure controllers with the Authorize attribute
+   
+   ✔ Add roles to the users
+   
+   
